@@ -15,7 +15,7 @@
 
 ## 👋 Tentang Saya
 
-Saya **Eri Nur Sofa**, seorang Software Engineer yang berfokus pada pengembangan aplikasi web, sistem informasi operasional, dan pendataan digital.
+Saya **Eri Nur Sofa**, seorang Software Engineer yang berfokus pada pengembangan aplikasi web, sistem informasi operasional, dan integrasi AI.
 
 Bagi saya, pengembangan sistem bukan sekadar menulis kode, melainkan memahami kebutuhan pengguna, alur kerja operasional, dan menghadirkan solusi yang **sederhana, bermanfaat, dan mudah dirawat**.
 
@@ -23,14 +23,15 @@ Bagi saya, pengembangan sistem bukan sekadar menulis kode, melainkan memahami ke
 
 ## 🛠️ Keahlian & Teknologi
 
-### Utama
+### Utama & Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Yii2](https://img.shields.io/badge/Yii2-2E7D32?style=flat&logo=yii&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### Pengalaman Lainnya
+### Frontend & AI Integration
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
@@ -38,6 +39,7 @@ Bagi saya, pengembangan sistem bukan sekadar menulis kode, melainkan memahami ke
 
 ## 🚀 Pengalaman Kerja & Sistem
 
+- **Catet.ai (Asisten Keuangan AI)**: Aplikasi pencatat keuangan pintar berbasis AI (Web & Telegram Bot) yang mengekstraksi transaksi dari *voice note*, foto struk belanja (OCR), dan teks pesan ([Live Demo](https://finance-ai-assistant-wine.vercel.app/)).
 - **Sistem Informasi Layanan Publik**: Berpengalaman dalam pengembangan sistem informasi operasional untuk instansi (seperti Dinas Sosial, DPMPTSP, dan Dinas Koperasi), meliputi sistem bantuan sosial, antrean, dan pendataan disabilitas.
 - **Penyederhanaan Alur Kerja (E-SANKEM)**: Membantu digitalisasi proses pengajuan bantuan kematian agar alur verifikasi menjadi lebih jelas dan pemrosesan data menjadi lebih cepat.
 
