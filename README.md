@@ -159,7 +159,11 @@ Dokumentasi liputan resmi dari **Diskominfo Kota Semarang** mengenai rapat koord
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=erinurshofa&bg_color=0A0F1E&color=60A5FA&line=3B82F6&point=93C5FD&area=true&hide_border=true" width="95%" alt="GitHub Activity Graph" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=erinurshofa&theme=tokyonight&hide_border=true&background=0A0F1E" alt="GitHub Streak Stats" />
+
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/3b82f6/erinurshofa" width="100%" alt="GitHub Contribution Graph" />
 
 </div>
 
